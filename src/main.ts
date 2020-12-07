@@ -6,3 +6,10 @@ function showHello(divName: string, name: string) {
 }
 
 showHello("greeting", "TypeScript");
+
+
+export class LucksheetPluginPrint{
+    constructor(){
+        
+    }
+}
